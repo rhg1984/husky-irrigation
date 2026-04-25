@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://huskyirrigation.netlify.app/sitemap.xml
+Sitemap: https://www.huskyirrigationtx.com/sitemap.xml
