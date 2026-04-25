@@ -1,0 +1,63 @@
+{
+  "name": "projects/5238427569609430996",
+  "projectId": "5238427569609430996",
+  "title": "Husky Irrigation",
+  "visibility": "PRIVATE",
+  "projectType": "PROJECT_DESIGN",
+  "origin": "STITCH",
+  "deviceType": "DESKTOP",
+  "designTheme": {
+    "colorMode": "LIGHT",
+    "colorVariant": "FIDELITY",
+    "font": "EPILOGUE",
+    "headlineFont": "EPILOGUE",
+    "bodyFont": "MANROPE",
+    "labelFont": "MANROPE",
+    "roundness": "ROUND_EIGHT",
+    "spacingScale": 2,
+    "customColor": "#2563EB",
+    "overridePrimaryColor": "#2563EB",
+    "overrideSecondaryColor": "#0B2545",
+    "overrideTertiaryColor": "#1CA7EC",
+    "overrideNeutralColor": "#0F172A"
+  },
+  "screens": {
+    "index": {
+      "id": "7b74b1ed6ea34d76812cc385af5a849b",
+      "sourceScreen": "projects/5238427569609430996/screens/7b74b1ed6ea34d76812cc385af5a849b",
+      "title": "Husky Irrigation - Professional Homepage",
+      "width": 2560,
+      "height": 10134,
+      "deviceType": "DESKTOP"
+    },
+    "index-v1": {
+      "id": "153c8ed95924435eaf11e326222686d0",
+      "sourceScreen": "projects/5238427569609430996/screens/153c8ed95924435eaf11e326222686d0",
+      "title": "Husky Irrigation - Homepage (first pass)",
+      "width": 2560,
+      "height": 10444,
+      "deviceType": "DESKTOP",
+      "note": "First generation pass, kept as reference alternative"
+    },
+    "services": {
+      "id": "7e32f0184355420a96c485f833bcfcf0",
+      "sourceScreen": "projects/5238427569609430996/screens/7e32f0184355420a96c485f833bcfcf0",
+      "title": "Husky Irrigation - Services Detail Page",
+      "width": 2560,
+      "height": 13188,
+      "deviceType": "DESKTOP"
+    },
+    "services-v2": {
+      "id": "18ca90e4fc15410180c01792a59d5f56",
+      "sourceScreen": "projects/5238427569609430996/screens/18ca90e4fc15410180c01792a59d5f56",
+      "title": "Husky Irrigation - Services (alt)",
+      "width": 2560,
+      "height": 13188,
+      "deviceType": "DESKTOP",
+      "note": "Alternate services layout kept as reference"
+    }
+  },
+  "metadata": {
+    "userRole": "OWNER"
+  }
+}

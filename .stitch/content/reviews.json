@@ -1,0 +1,234 @@
+{
+  "aggregate": {
+    "rating": 5.0,
+    "reviewCount": 32,
+    "fiveStarPercent": 100,
+    "platforms": [
+      {
+        "name": "Thumbtack",
+        "rating": 5.0,
+        "count": 10,
+        "publicCount": 5,
+        "url": "https://www.thumbtack.com/tx/rockwall/irrigation-system-companies/husky-irrigation/service/383503508473954304",
+        "note": "Listed as Husky Irrigation (Rockwall)"
+      },
+      {
+        "name": "HomeAdvisor",
+        "rating": 5.0,
+        "count": 22,
+        "publicCount": 22,
+        "url": "https://www.homeadvisor.com/rated.RigoGonzalezIrrigation.49869462.html",
+        "note": "Listed as Rigo Gonzalez Irrigation (Garland)"
+      },
+      {
+        "name": "Angi",
+        "rating": 5.0,
+        "url": "https://www.angi.com/companylist/us/tx/garland/rigo-gonzalez-irrigation-reviews-1.htm"
+      },
+      {
+        "name": "BBB",
+        "url": "https://www.bbb.org/us/tx/garland/profile/irrigation-design/rigo-gonzalez-irrigation-0875-91036610"
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "source": "Thumbtack",
+      "reviewer": "Megan S.",
+      "date": "2024-12-16",
+      "rating": 5,
+      "quote": "Rigo and his team did a fantastic job. They catered to my vision for the project, set up my Rachio system, labeled each section, and tested it multiple times. By far the best \u2014 and a very reasonable cost as well."
+    },
+    {
+      "source": "Thumbtack",
+      "reviewer": "Krishna T.",
+      "date": "2024-11-24",
+      "rating": 5,
+      "quote": "Reasonably priced, responsive to maintenance requests, and takes the time to educate you. Most competitive and most knowledgeable \u2014 finished the install in one day and came back within 72 hours to fix a small issue. Highly recommend."
+    },
+    {
+      "source": "Thumbtack",
+      "reviewer": "Yuko G.",
+      "date": "2024-09-16",
+      "rating": 5,
+      "quote": "It was a pleasure working with him with my new sprinkler system."
+    },
+    {
+      "source": "Thumbtack",
+      "reviewer": "Glen O.",
+      "date": "2023-08-31",
+      "rating": 5,
+      "quote": "Rigo was very courteous and did a good job installing my system in only a day and a half. Left the yard clean and neat. I would recommend him to my friends."
+    },
+    {
+      "source": "Thumbtack",
+      "reviewer": "Joyce W.",
+      "date": "2023-07-21",
+      "rating": 5,
+      "quote": "So pleased with my new sprinkler system. No more watering my grass on these hot summer days! Professionalism and great work \u2014 will be referring you to others."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Scott S.",
+      "date": "2023-08",
+      "rating": 5,
+      "price": 3500,
+      "quote": "Rigo was amazing. The sprinkler system was installed with utmost care, precision and professionalism. Rigo was very thorough \u2014 even to the last, he explained the electronics and how to set the system. I would hire Rigo without any hesitation. The job was done to our complete satisfaction."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Amanda B.",
+      "date": "2023-05",
+      "rating": 5,
+      "quote": "Rigo was punctual, very nice and completed the job beautifully. Will recommend to others for sure."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Patti W.",
+      "date": "2023-04",
+      "rating": 5,
+      "price": 2598,
+      "quote": "Came out just a few days after we called. Was very professional, and knew exactly what we would need. They came back for installation about a week later, and the crew worked diligently and got it done in one day. I would recommend him."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Edward P.",
+      "date": "2023-04",
+      "rating": 5,
+      "quote": "Very professional, knowledgeable, and friendly. Rigo's quote was much less than the others I received and included rain and freeze sensors and a longer warranty. He and his team completed all the work in a day. Our landscape guy later cracked one of the pipes while tilling \u2014 Rigo came out and repaired it at NO CHARGE. Excellent work and service."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Rodney W.",
+      "date": "2023-02",
+      "rating": 5,
+      "quote": "Very detailed and personable. Took the time to get the job done correctly and communicated."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Jeff C.",
+      "date": "2023-01",
+      "rating": 5,
+      "price": 5500,
+      "quote": "They were available to do the work quickly. With the new controller, they helped with setup and recommended schedules. Works great."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Steve M.",
+      "date": "2022-01",
+      "rating": 5,
+      "price": 5100,
+      "quote": "Rigo and his staff are professionals. They treat you, your time and your home with respect. His pricing is fair in comparison. I liked Rigo's attitude and explanation of his work. He returned when we requested adjustments, and he did a second job just as well. Definitely would hire him again."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Cat M.",
+      "date": "2020-10",
+      "rating": 5,
+      "quote": "Friendly and knowledgeable. Answered all my questions. Quickly gave me a fair estimate. He and his crew installed my complete system in the spring of 2019 and did an excellent job. He showed me how to use the control box and even set up my initial schedule. Couldn't be happier."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Rod R.",
+      "date": "2020-08",
+      "rating": 5,
+      "quote": "I hired Rigo to install complete sprinkler systems in two of my daughters' yards in Rowlett. They got both properties done over three days and we are very happy with the results. The price was right and the quality was what I expected. Would recommend these guys."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Janie E.",
+      "date": "2020-02",
+      "rating": 5,
+      "quote": "Rigo and crew are absolutely awesome. I had a huge yard that needed a new system. They worked till dark and into the weekend to get my system installed with every preference I requested. He was definitely the most reasonable and customer-service-oriented of 5 estimates I received. He emailed the quote within 24 hours, had the permit in 2 business days, started the next week, and the final invoice was exactly the estimate. I would give 10 stars if it was possible."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Nickalaus S.",
+      "date": "2019-12",
+      "rating": 5,
+      "quote": "Rigo did a great job. I explained what I wanted and my future plans; he installed my sprinkler system with Wi-Fi connectivity and built it so I can modify it easily for future projects. The price was very reasonable and the work was exactly what I wanted. I recommend him for sprinkler install and repair for sure."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Aaron T.",
+      "date": "2019-08",
+      "rating": 5,
+      "quote": "He was very good. He called right away, kept the appointment, and installed the system. I already hired him for another property as well."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Sid K.",
+      "date": "2019-07",
+      "rating": 5,
+      "quote": "Very good."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Frank L.",
+      "date": "2019-07",
+      "rating": 5,
+      "price": 34000,
+      "quote": "They were great. Rigo gave me the best price out of the four quotes I received. The system works perfect."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Doris C.",
+      "date": "2019-06",
+      "rating": 5,
+      "quote": "Rigo was prompt in responding. The system was installed at my parents' house without any issues. He provided the best quote with email attachments of placement of heads and zones. On the day of install, he double-checked wires and cables, helped my mom with some requests, and walked me through the Rain Bird app. My mom, who is choosy about contractors, was very pleased."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "John S.",
+      "date": "2019-06",
+      "rating": 5,
+      "price": 4500,
+      "quote": "Rigo and his crew were great. Competitive bid, answered all my questions, prompt communication from start to finish. We had the existing irrigation extended with 24 more rotors, 13 tree bubblers, drip lines for the foundation, and two new Rachio smart controllers. You can't go wrong with Rigo."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Chad R.",
+      "date": "2019-06",
+      "rating": 5,
+      "quote": "Rigo was informative and always quick to respond to my questions. The install went exactly as planned and the system is working great. Highly recommend."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Kirsten F.",
+      "date": "2018-06",
+      "rating": 5,
+      "price": 5000,
+      "quote": "Rigo and his crew did a great job. They cleaned up after they left. Rigo is very experienced and knows how to set up the sprinkler system to fit my yard."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Janet P.",
+      "date": "2018-04",
+      "rating": 5,
+      "quote": "Rigo answered his phone when I called, came over the same day, gave me a fair price, and did the work. Excellent job. Very happy."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Susan H.",
+      "date": "2018-04",
+      "rating": 5,
+      "price": 1140,
+      "quote": "Rigo was quick to respond. He came within a couple of hours, fixed the problem and stayed to set up the wireless phone app for us. He was proactive in communicating with us because of a weather delay. Would highly recommend."
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Terry I.",
+      "date": "2018-04",
+      "rating": 5,
+      "price": 4000,
+      "quote": "Rigo and his crew were great. We love our new sprinkler system. Highly recommend him to anyone!"
+    },
+    {
+      "source": "HomeAdvisor",
+      "reviewer": "Alex",
+      "date": "2018-02",
+      "rating": 5,
+      "quote": "They did an overall great job."
+    }
+  ]
+}
