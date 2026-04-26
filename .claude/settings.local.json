@@ -53,7 +53,14 @@
       "Bash(git branch *)",
       "Bash(git remote *)",
       "Bash(git push *)",
-      "Bash(gh auth *)"
+      "Bash(gh auth *)",
+      "Bash(curl -s -o /dev/null -w '%{http_code}' 'https://images.unsplash.com/photo-__TRACKED_VAR__?auto=format&fit=crop&w=400&q=60')",
+      "Bash(curl -sI 'https://source.unsplash.com/1600x900/?__TRACKED_VAR__')",
+      "Bash(curl -s https://unsplash.com/photos/__TRACKED_VAR__)",
+      "Bash(curl -s https://www.pexels.com/search/__TRACKED_VAR__/ -A Mozilla/5.0)",
+      "WebFetch(domain:unsplash.com)",
+      "Bash(rm -f u-*.jpg)",
+      "Bash(curl -s -o u-__TRACKED_VAR__.jpg -w '%{http_code}' 'https://images.unsplash.com/photo-__TRACKED_VAR__?auto=format&fit=crop&w=600&q=70')"
     ]
   }
 }
