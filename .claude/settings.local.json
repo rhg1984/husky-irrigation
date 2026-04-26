@@ -61,7 +61,11 @@
       "WebFetch(domain:unsplash.com)",
       "Bash(rm -f u-*.jpg)",
       "Bash(curl -s -o u-__TRACKED_VAR__.jpg -w '%{http_code}' 'https://images.unsplash.com/photo-__TRACKED_VAR__?auto=format&fit=crop&w=600&q=70')",
-      "Bash(xargs ls *)"
+      "Bash(xargs ls *)",
+      "Bash(python3 -c \"from PIL import Image; print\\('PIL ok'\\)\")",
+      "Bash(sips -g pixelWidth -g pixelHeight site/public/assets/rachio-controller-install.jpg)",
+      "Bash(sips -Z 1600 -s formatOptions 75 rachio-controller-install.jpg --out rachio-controller-install-opt.jpg)",
+      "Bash(mv rachio-controller-install-opt.jpg rachio-controller-install.jpg)"
     ]
   }
 }
