@@ -60,7 +60,8 @@
       "Bash(curl -s https://www.pexels.com/search/__TRACKED_VAR__/ -A Mozilla/5.0)",
       "WebFetch(domain:unsplash.com)",
       "Bash(rm -f u-*.jpg)",
-      "Bash(curl -s -o u-__TRACKED_VAR__.jpg -w '%{http_code}' 'https://images.unsplash.com/photo-__TRACKED_VAR__?auto=format&fit=crop&w=600&q=70')"
+      "Bash(curl -s -o u-__TRACKED_VAR__.jpg -w '%{http_code}' 'https://images.unsplash.com/photo-__TRACKED_VAR__?auto=format&fit=crop&w=600&q=70')",
+      "Bash(xargs ls *)"
     ]
   }
 }
