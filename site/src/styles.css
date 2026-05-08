@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Shared utilities seen inline across multiple pages — promote to one place */
+@layer components {
+  .material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 200, 'GRAD' 0, 'opsz' 24;
+  }
+  .glass-nav {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+  }
+  .text-shadow-soft {
+    text-shadow: 0px 4px 12px rgba(15, 23, 42, 0.2);
+  }
+  .bg-primary-gradient {
+    background: linear-gradient(135deg, #004ac6 0%, #2563eb 100%);
+  }
+  .icon-halo {
+    background: rgba(180, 197, 255, 0.25);
+  }
+  .text-gradient {
+    background: linear-gradient(135deg, #004ac6 0%, #2563eb 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .timeline-line {
+    background: linear-gradient(180deg, #004ac6 0%, #2563eb 100%);
+  }
+  .pin {
+    filter: drop-shadow(0 6px 12px rgba(0, 74, 198, 0.35));
+  }
+  .input-underline {
+    border-bottom: 1px solid rgb(195 198 215 / 0.6);
+    transition: border-color 0.2s;
+  }
+  .input-underline:focus-within {
+    border-bottom-color: #004ac6;
+  }
+}
+
+/* details/summary chevron rotate on open (used on FAQ pages) */
+details[open] summary .chev { transform: rotate(180deg); }
+summary { list-style: none; }
+summary::-webkit-details-marker { display: none; }
