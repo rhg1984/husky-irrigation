@@ -4,8 +4,12 @@
 
 /* Shared utilities seen inline across multiple pages — promote to one place */
 @layer components {
-  .material-symbols-outlined {
-    font-variation-settings: 'FILL' 0, 'wght' 200, 'GRAD' 0, 'opsz' 24;
+  .icon {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: -0.125em;
+    flex-shrink: 0;
   }
   .glass-nav {
     background: rgba(255, 255, 255, 0.7);
